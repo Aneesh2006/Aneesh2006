@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aneesh Kumar
+- 👀 I’m interested in Web and App Development
+- 🌱 I’m currently learning full stack web development 
+- 📫 How to reach me aneeshkumar822006@gmail.com
